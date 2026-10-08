@@ -1,0 +1,134 @@
+{
+  "5th": [
+    {
+      "session": "2018-19",
+      "appeared": 24,
+      "passed": 24,
+      "average": 71.2
+    },
+    {
+      "session": "2019-20",
+      "appeared": 27,
+      "passed": 27,
+      "average": 73.5
+    },
+    {
+      "session": "2020-21",
+      "appeared": 30,
+      "passed": 30,
+      "average": 74.8
+    },
+    {
+      "session": "2021-22",
+      "appeared": 32,
+      "passed": 32,
+      "average": 72.9
+    },
+    {
+      "session": "2022-23",
+      "appeared": 29,
+      "passed": 29,
+      "average": 75.6
+    },
+    {
+      "session": "2023-24",
+      "appeared": 28,
+      "passed": 28,
+      "average": 76.3
+    },
+    {
+      "session": "2024-25",
+      "appeared": 30,
+      "passed": 30,
+      "average": 77.1
+    }
+  ],
+  "9th": [
+    {
+      "session": "2018-19",
+      "appeared": 19,
+      "passed": 19,
+      "average": 68.4
+    },
+    {
+      "session": "2019-20",
+      "appeared": 22,
+      "passed": 22,
+      "average": 70.1
+    },
+    {
+      "session": "2020-21",
+      "appeared": 26,
+      "passed": 26,
+      "average": 71.8
+    },
+    {
+      "session": "2021-22",
+      "appeared": 29,
+      "passed": 28,
+      "average": 69.5
+    },
+    {
+      "session": "2022-23",
+      "appeared": 25,
+      "passed": 25,
+      "average": 72.4
+    },
+    {
+      "session": "2023-24",
+      "appeared": 24,
+      "passed": 24,
+      "average": 73.9
+    },
+    {
+      "session": "2024-25",
+      "appeared": 26,
+      "passed": 26,
+      "average": 74.6
+    }
+  ],
+  "10th": [
+    {
+      "session": "2018-19",
+      "appeared": 21,
+      "passed": 21,
+      "average": 69.5
+    },
+    {
+      "session": "2019-20",
+      "appeared": 30,
+      "passed": 30,
+      "average": 74.7
+    },
+    {
+      "session": "2020-21",
+      "appeared": 41,
+      "passed": 41,
+      "average": 75.4
+    },
+    {
+      "session": "2021-22",
+      "appeared": 52,
+      "passed": 52,
+      "average": 71.6
+    },
+    {
+      "session": "2022-23",
+      "appeared": 43,
+      "passed": 43,
+      "average": 67.7
+    },
+    {
+      "session": "2023-24",
+      "appeared": 37,
+      "passed": 37,
+      "average": 73.5
+    },
+    {
+      "session": "2024-25",
+      "appeared": 42,
+      "passed": 42,
+      "average": 75.4
+    }
+  ]
+}
