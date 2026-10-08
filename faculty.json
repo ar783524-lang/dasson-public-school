@@ -1,0 +1,148 @@
+{
+  "teachers": [
+    {
+      "name": "Neena Sharma",
+      "role": "Principal",
+      "qualification": "M.A. Education, B.Ed",
+      "subject": "School leadership & academics",
+      "bio": "Leads the school's vision, academics, and daily operations, with a focus on holistic student growth.",
+      "photo": ""
+    },
+    {
+      "name": "Akshay Kumar",
+      "role": "Vice Principal",
+      "qualification": "M.A. History, B.Ed",
+      "subject": "Discipline & staff coordination",
+      "bio": "Oversees discipline, scheduling, and coordination between the primary, middle, and senior wings.",
+      "photo": "/assets/faculty-akshay.jpg"
+    },
+    {
+      "name": "Priya Chauhan",
+      "role": "Primary Wing Head",
+      "qualification": "B.El.Ed",
+      "subject": "Nursery to Class 5",
+      "bio": "Guides foundational learning through structured, play-based teaching methods.",
+      "photo": ""
+    },
+    {
+      "name": "Vikram Negi",
+      "role": "Middle Wing · Science",
+      "qualification": "M.Sc. Physics, B.Ed",
+      "subject": "Class 6–8 Science",
+      "bio": "Makes science hands-on with regular lab sessions and classroom experiments.",
+      "photo": ""
+    },
+    {
+      "name": "Sunita Rana",
+      "role": "Senior Wing · Mathematics",
+      "qualification": "M.Sc. Mathematics, B.Ed",
+      "subject": "Class 9–10 Mathematics",
+      "bio": "Focuses on concept clarity and board-exam problem-solving practice.",
+      "photo": ""
+    },
+    {
+      "name": "Deepak Verma",
+      "role": "Sports & Co-curricular",
+      "qualification": "B.P.Ed",
+      "subject": "All classes",
+      "bio": "Runs daily sports periods, annual events, and extracurricular clubs.",
+      "photo": ""
+    },
+    {
+      "name": "Meena Kumari",
+      "role": "English Teacher",
+      "qualification": "M.A. English, B.Ed",
+      "subject": "Class 6–10 English",
+      "bio": "Builds strong reading and writing skills through engaging lessons.",
+      "photo": ""
+    },
+    {
+      "name": "Ramesh Chand",
+      "role": "Hindi Teacher",
+      "qualification": "M.A. Hindi, B.Ed",
+      "subject": "Class 6–10 Hindi",
+      "bio": "Encourages a love for Hindi language and literature.",
+      "photo": ""
+    },
+    {
+      "name": "Sanjeev Kanwar",
+      "role": "Social Science Teacher",
+      "qualification": "M.A. History, B.Ed",
+      "subject": "Class 6–10 Social Science",
+      "bio": "Connects history, geography and civics to everyday life.",
+      "photo": ""
+    },
+    {
+      "name": "Pooja Thakur",
+      "role": "Computer Science Teacher",
+      "qualification": "B.C.A., B.Ed",
+      "subject": "Class 6–10 Computers",
+      "bio": "Introduces students to computers, typing and basic coding.",
+      "photo": ""
+    },
+    {
+      "name": "Kavita Negi",
+      "role": "Primary Teacher",
+      "qualification": "B.El.Ed",
+      "subject": "Class 3–5",
+      "bio": "Supports steady growth in reading, writing and mathematics.",
+      "photo": ""
+    },
+    {
+      "name": "Arun Chauhan",
+      "role": "Music & Art Teacher",
+      "qualification": "Diploma in Fine Arts",
+      "subject": "All classes",
+      "bio": "Leads the school choir, art classes and stage performances.",
+      "photo": ""
+    },
+    {
+      "name": "Neha Verma",
+      "role": "Librarian",
+      "qualification": "B.Lib.Sc.",
+      "subject": "School Library",
+      "bio": "Manages the library and encourages reading habits among students.",
+      "photo": ""
+    },
+    {
+      "name": "Suman Rana",
+      "role": "Pre-Primary Teacher",
+      "qualification": "N.T.T.",
+      "subject": "Nursery & KG",
+      "bio": "Gives the youngest students a warm, caring start to school.",
+      "photo": ""
+    },
+    {
+      "name": "Vanita Thakur",
+      "role": "TGT Arts",
+      "qualification": "B.A, B.Ed, M.A",
+      "subject": "Arts",
+      "bio": "Teaches Arts, helping students build creativity and an appreciation for the subject.",
+      "photo": "/assets/faculty-vanita.jpg"
+    },
+    {
+      "name": "Pinky",
+      "role": "IT Teacher",
+      "qualification": "M.A, B.Ed, PGDCA",
+      "subject": "Information Technology",
+      "bio": "Teaches Information Technology, building students' computer and digital skills.",
+      "photo": "/assets/faculty-pinky.jpg"
+    },
+    {
+      "name": "Kajal",
+      "role": "TGT Arts",
+      "qualification": "B.A, B.Ed, M.A",
+      "subject": "Arts",
+      "bio": "Teaches Arts, helping students build creativity and an appreciation for the subject.",
+      "photo": "/assets/faculty-kajal.jpg"
+    },
+    {
+      "name": "Swarna Kumari",
+      "role": "LT Grade Teacher",
+      "qualification": "M.A, B.Ed, L.T (TET)",
+      "subject": "Senior Wing",
+      "bio": "Brings strong subject knowledge and dedicated exam preparation support to senior wing students.",
+      "photo": "/assets/faculty-swarna.jpg"
+    }
+  ]
+}

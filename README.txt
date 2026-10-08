@@ -1,0 +1,3 @@
+Put your real school photos here to replace the illustrated hero slides.
+Use these exact names: slide1.jpg, slide2.jpg, slide3.jpg, slide4.jpg, slide5.jpg
+Recommended size: 1600 x 700 pixels (landscape), under 400 KB each.

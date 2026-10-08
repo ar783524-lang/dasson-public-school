@@ -1,0 +1,79 @@
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: "assets"
+public_folder: "/assets"
+
+site_url: https://dpsrajgarh.org
+display_url: https://dpsrajgarh.org
+
+collections:
+  - name: "faculty"
+    label: "Faculty"
+    files:
+      - name: "faculty"
+        label: "Faculty List"
+        file: "content/faculty.json"
+        fields:
+          - label: "Teachers"
+            name: "teachers"
+            widget: "list"
+            summary: "{{name}} — {{role}}"
+            fields:
+              - { label: "Name", name: "name", widget: "string" }
+              - { label: "Designation / Role", name: "role", widget: "string" }
+              - { label: "Qualification", name: "qualification", widget: "string" }
+              - { label: "Subject / Focus Area", name: "subject", widget: "string" }
+              - { label: "Short Bio", name: "bio", widget: "text" }
+              - { label: "Photo", name: "photo", widget: "image", required: false, hint: "Leave empty to show initials instead of a photo." }
+
+  - name: "results"
+    label: "Exam Results"
+    files:
+      - name: "results"
+        label: "Results Data"
+        file: "content/results.json"
+        fields:
+          - label: "Class 5th"
+            name: "5th"
+            widget: "list"
+            summary: "{{session}} — {{appeared}} appeared, {{passed}} passed"
+            fields:
+              - { label: "Session (e.g. 2024-25)", name: "session", widget: "string" }
+              - { label: "Appeared", name: "appeared", widget: "number", value_type: "int" }
+              - { label: "Passed", name: "passed", widget: "number", value_type: "int" }
+              - { label: "Average Score", name: "average", widget: "number", value_type: "float" }
+          - label: "Class 9th"
+            name: "9th"
+            widget: "list"
+            summary: "{{session}} — {{appeared}} appeared, {{passed}} passed"
+            fields:
+              - { label: "Session (e.g. 2024-25)", name: "session", widget: "string" }
+              - { label: "Appeared", name: "appeared", widget: "number", value_type: "int" }
+              - { label: "Passed", name: "passed", widget: "number", value_type: "int" }
+              - { label: "Average Score", name: "average", widget: "number", value_type: "float" }
+          - label: "Class 10th"
+            name: "10th"
+            widget: "list"
+            summary: "{{session}} — {{appeared}} appeared, {{passed}} passed"
+            fields:
+              - { label: "Session (e.g. 2024-25)", name: "session", widget: "string" }
+              - { label: "Appeared", name: "appeared", widget: "number", value_type: "int" }
+              - { label: "Passed", name: "passed", widget: "number", value_type: "int" }
+              - { label: "Average Score", name: "average", widget: "number", value_type: "float" }
+
+  - name: "news"
+    label: "In the News"
+    files:
+      - name: "news"
+        label: "Press Clippings"
+        file: "content/news.json"
+        fields:
+          - label: "Clippings"
+            name: "clippings"
+            widget: "list"
+            summary: "{{caption}}"
+            fields:
+              - { label: "Headline / Caption", name: "caption", widget: "string" }
+              - { label: "Photo (optional)", name: "photo", widget: "image", required: false, hint: "Leave empty to show a newspaper icon instead." }
